@@ -6,7 +6,7 @@ require (
 	github.com/khulnasoft-lab/table v1.8.0
 	github.com/khulnasoft-lab/vul v0.39.1
 	github.com/fatih/color v1.15.0
-	github.com/google/go-containerregistry v0.14.0
+	github.com/google/go-containerregistry v0.16.1
 	github.com/owenrumney/go-sarif v1.1.1
 	github.com/samber/lo v1.38.1
 	github.com/spdx/tools-golang v0.3.1-0.20230104082527-d6f58551be3f
