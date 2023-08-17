@@ -13,7 +13,7 @@ require (
 	github.com/xlab/treeprint v1.2.0
 )
 
-replace github.com/spdx/tools-golang => github.com/spdx/tools-golang v0.3.0
+replace github.com/spdx/tools-golang => github.com/spdx/tools-golang v0.5.3
 
 require (
 	github.com/CycloneDX/cyclonedx-go v0.7.1 // indirect
